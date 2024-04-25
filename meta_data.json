@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "productivity",
+        "3": "technical"
+    },
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nChanges the character the user typed to something else at the exact moment the user types it (on the fly).\nFor example the user types \"a\" and what appears is \"b\". One use case is swapping dots with commas or the other way around in number inputs.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/instant-value-replacer-plugin-for-bubble-1712923630752x904193336498100400\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com ",
+    "image": "//s3.amazonaws.com/appforest_uf/f1582138963826x769195392217471000/back-forth.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Instant value replacer",
+    "plugin_instructions": "With the target input visible (loaded by Bubble), use the action \"Set replacer\", put the input ID, old character and new character.",
+    "sa_node_version": 18
+}
