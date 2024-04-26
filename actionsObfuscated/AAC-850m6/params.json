@@ -1,0 +1,34 @@
+{
+    "category": "plugins",
+    "display": "Set value replacer on input",
+    "fields": {
+        "AAD": {
+            "caption": "Input ID",
+            "editor": "DynamicValue",
+            "name": "input_id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "Old character",
+            "editor": "DynamicValue",
+            "name": "value_to_look_for",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "New character",
+            "editor": "DynamicValue",
+            "name": "new_character_to_be_placed",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Congratulations fellow Bubbler! You've just attained more power. Come visit your custom plugin shop www.unlimitedbubbling.dev and get even more!",
+            "editor": "Label",
+            "name": "a",
+            "rank": 3
+        }
+    },
+    "type": "client_side"
+}
